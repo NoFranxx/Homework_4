@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/491feccc1889b8adff3e1fb49b6e9a74/sfml-populate.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/ad46da86e2eaa8eff9cf35fec223aac3/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-build.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-download.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-install.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-test.rule"
+		},
+		{
+			"file" : "D:/4/build/_deps/sfml-subbuild/CMakeFiles/4133db1e60f831f770927336d7affd35/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
